@@ -1,0 +1,20 @@
+version: "3.8"
+
+services:
+  client:
+    container_name: link-client
+    hostname: link-client
+    image: nginx:alpine
+    ports:
+      - 80:80
+    volumes:
+      - ./client/src:/usr/share/nginx/html:ro
+
+  #server:
+  #  container_name: link-server
+  #  hostname: link-server
+  #  image: node:alpine
+  #  ports:
+  #    - 5000:5000
+  #  volumes:
+  #    - ./server/src:/usr/share/nginx/html:ro

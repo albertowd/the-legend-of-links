@@ -1,0 +1,614 @@
+[
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 0,
+        "y": 0
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 1,
+        "y": 0
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 2,
+        "y": 0
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 3,
+        "y": 0
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 4,
+        "y": 0
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 5,
+        "y": 0
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 6,
+        "y": 0
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 9,
+        "y": 0
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 10,
+        "y": 0
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 11,
+        "y": 0
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 12,
+        "y": 0
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 13,
+        "y": 0
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 14,
+        "y": 0
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 15,
+        "y": 0
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 0,
+        "y": 1
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 1,
+        "y": 1
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 2,
+        "y": 1
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 3,
+        "y": 1
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 4,
+        "y": 1
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 5,
+        "y": 1
+    },
+    {
+        "frame": 5,
+        "sprite": "rock-walls",
+        "x": 6,
+        "y": 1
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 9,
+        "y": 1
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 10,
+        "y": 1
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 11,
+        "y": 1
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 12,
+        "y": 1
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 13,
+        "y": 1
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 14,
+        "y": 1
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 15,
+        "y": 1
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 0,
+        "y": 2
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 1,
+        "y": 2
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 2,
+        "y": 2
+    },
+    {
+        "frame": 5,
+        "sprite": "rock-walls",
+        "x": 3,
+        "y": 2
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 9,
+        "y": 2
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 10,
+        "y": 2
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 11,
+        "y": 2
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 12,
+        "y": 2
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 13,
+        "y": 2
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 14,
+        "y": 2
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 15,
+        "y": 2
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 0,
+        "y": 3
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 1,
+        "y": 3
+    },
+    {
+        "frame": 5,
+        "sprite": "rock-walls",
+        "x": 2,
+        "y": 3
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 9,
+        "y": 3
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 10,
+        "y": 3
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 11,
+        "y": 3
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 12,
+        "y": 3
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 13,
+        "y": 3
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 14,
+        "y": 3
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 15,
+        "y": 3
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 0,
+        "y": 4
+    },
+    {
+        "frame": 5,
+        "sprite": "rock-walls",
+        "x": 1,
+        "y": 4
+    },
+    {
+        "frame": 3,
+        "sprite": "rock-walls",
+        "x": 9,
+        "y": 4
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 10,
+        "y": 4
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 11,
+        "y": 4
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 12,
+        "y": 4
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 13,
+        "y": 4
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 14,
+        "y": 4
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 15,
+        "y": 4
+    },
+    {
+        "frame": 1,
+        "sprite": "rock-walls",
+        "x": 0,
+        "y": 6
+    },
+    {
+        "frame": 2,
+        "sprite": "rock-walls",
+        "x": 1,
+        "y": 6
+    },
+    {
+        "frame": 1,
+        "sprite": "rock-walls",
+        "x": 14,
+        "y": 6
+    },
+    {
+        "frame": 1,
+        "sprite": "rock-walls",
+        "x": 15,
+        "y": 6
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 0,
+        "y": 7
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 1,
+        "y": 7
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 14,
+        "y": 7
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 15,
+        "y": 7
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 0,
+        "y": 8
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 1,
+        "y": 8
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 14,
+        "y": 8
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 15,
+        "y": 8
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 0,
+        "y": 9
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 1,
+        "y": 9
+    },
+    {
+        "frame": 1,
+        "sprite": "rock-walls",
+        "x": 2,
+        "y": 9
+    },
+    {
+        "frame": 1,
+        "sprite": "rock-walls",
+        "x": 3,
+        "y": 9
+    },
+    {
+        "frame": 1,
+        "sprite": "rock-walls",
+        "x": 4,
+        "y": 9
+    },
+    {
+        "frame": 1,
+        "sprite": "rock-walls",
+        "x": 5,
+        "y": 9
+    },
+    {
+        "frame": 1,
+        "sprite": "rock-walls",
+        "x": 6,
+        "y": 9
+    },
+    {
+        "frame": 1,
+        "sprite": "rock-walls",
+        "x": 7,
+        "y": 9
+    },
+    {
+        "frame": 1,
+        "sprite": "rock-walls",
+        "x": 8,
+        "y": 9
+    },
+    {
+        "frame": 1,
+        "sprite": "rock-walls",
+        "x": 9,
+        "y": 9
+    },
+    {
+        "frame": 1,
+        "sprite": "rock-walls",
+        "x": 10,
+        "y": 9
+    },
+    {
+        "frame": 1,
+        "sprite": "rock-walls",
+        "x": 11,
+        "y": 9
+    },
+    {
+        "frame": 1,
+        "sprite": "rock-walls",
+        "x": 12,
+        "y": 9
+    },
+    {
+        "frame": 1,
+        "sprite": "rock-walls",
+        "x": 13,
+        "y": 9
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 14,
+        "y": 9
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 15,
+        "y": 9
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 0,
+        "y": 10
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 1,
+        "y": 10
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 2,
+        "y": 10
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 3,
+        "y": 10
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 4,
+        "y": 10
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 5,
+        "y": 10
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 6,
+        "y": 10
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 7,
+        "y": 10
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 8,
+        "y": 10
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 9,
+        "y": 10
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 10,
+        "y": 10
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 11,
+        "y": 10
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 12,
+        "y": 10
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 13,
+        "y": 10
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 14,
+        "y": 10
+    },
+    {
+        "frame": 4,
+        "sprite": "rock-walls",
+        "x": 15,
+        "y": 10
+    }
+]

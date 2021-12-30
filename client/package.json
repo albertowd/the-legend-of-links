@@ -1,0 +1,15 @@
+{
+  "author": {
+    "email": "alberto+git@albertowd.dev",
+    "name": "Alberto Wollmann Dietrich",
+    "url": "https://albertowd.dev"
+  },
+  "description": "The Legend of Zelda remake, but with PvP online gameplay client!",
+  "main": "index.html",
+  "name": "the-legend-of-links-client",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "version": "0.0.1"
+}
